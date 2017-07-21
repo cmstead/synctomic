@@ -1,0 +1,21 @@
+[
+    [
+        {
+            "foo": {
+                "bar": [
+                    "baz",
+                    "quux"
+                ],
+                "blerg": "blerg"
+            }
+        },
+        {
+            "foo": {
+                "bar": [
+                    "baz"
+                ],
+                "blerg": "blerg"
+            }
+        }
+    ]
+]
