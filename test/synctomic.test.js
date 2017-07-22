@@ -114,7 +114,7 @@ describe('synctomic', function () {
 
     });
 
-    describe('on', function () {
+    describe('onChange', function () {
 
         it('should watch object and execute when something changes', function () {
             const dataAtom = synctomic.buildAtom({ foo: { bar: ['baz'] } });
